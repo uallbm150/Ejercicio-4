@@ -1,0 +1,1333 @@
+Este producto ha superado todas mis expectativas.:Halago
+Me encanta lo fácil que es usar este producto, definitivamente lo recomendaré.:Halago
+¡Excelente calidad! Lo usaré todos los días.:Halago
+Muy satisfecho con la compra, el producto funciona de maravilla.:Halago
+¡El mejor servicio al cliente que he tenido! Definitivamente volveré.:Halago
+Este producto es genial, nunca pensé que fuera tan bueno.:Halago
+¡Increíble! El producto cumple todo lo prometido y más.:Halago
+La experiencia de compra fue excelente, todo perfecto.:Halago
+¿Me podrías decir más sobre cómo funciona esta característica?:Información adicional
+¿Cuál es el tiempo estimado de entrega para este producto?:Información adicional
+¿Este producto tiene garantía?:Información adicional
+¿Puedes explicarme cómo instalar este software?:Información adicional
+¿Este producto es compatible con otros dispositivos?:Información adicional
+¿Puedo obtener más detalles sobre las especificaciones técnicas del producto?:Información adicional
+¿Tienen algún video tutorial disponible para este producto?:Información adicional
+¿Este modelo de teléfono tiene soporte para 5G?:Información adicional
+El producto no funciona correctamente, ¿pueden ayudarme?:Necesita apoyo técnico
+Estoy teniendo problemas con la conexión, ¿cómo puedo solucionarlo?:Necesita apoyo técnico
+Mi dispositivo se apaga solo, ¿qué debo hacer?:Necesita apoyo técnico
+No puedo acceder a mi cuenta, ¿me podrían ayudar a recuperar mi contraseña?:Necesita apoyo técnico
+El software se cierra de forma inesperada, ¿cómo lo soluciono?:Necesita apoyo técnico
+¿Pueden ayudarme con la instalación? El proceso no avanza.:Necesita apoyo técnico
+No entiendo cómo usar esta característica, ¿pueden explicármelo?:Necesita apoyo técnico
+¿Este producto tiene algún defecto? No está funcionando como se espera.:Necesita apoyo técnico
+"Este producto es fantástico, lo recomendaría a todos.":Halago
+"¡Excelente servicio! Estoy muy satisfecho con la compra.":Halago
+"Es un producto increíble, mejor de lo que esperaba.":Halago
+"Lo uso todos los días y sigue funcionando a la perfección.":Halago
+"Estoy encantado con la calidad, es simplemente excelente.":Halago
+"¡El mejor dispositivo que he comprado en años!":Halago
+"Este producto es realmente impresionante.":Halago
+"La experiencia ha sido maravillosa, definitivamente volveré.":Halago
+"Es un placer utilizar este producto, ¡es muy fácil de usar!":Halago
+"Estoy realmente feliz con la compra, todo funciona perfectamente.":Halago
+
+"¿Cuál es el tiempo de entrega estimado?":Información adicional
+"¿El producto viene con garantía?":Información adicional
+"¿Es compatible con otros dispositivos de la marca?":Información adicional
+"¿Puedo obtener más información sobre las especificaciones técnicas?":Información adicional
+"¿Este modelo tiene soporte para 5G?":Información adicional
+"¿Cómo se instala este software?":Información adicional
+"¿Existen tutoriales disponibles para el uso de este producto?":Información adicional
+"¿El producto incluye un manual de usuario?":Información adicional
+"¿Cuáles son los requisitos del sistema para usar este software?":Información adicional
+"¿Este producto tiene alguna actualización disponible?":Información adicional
+
+"El producto no se enciende, ¿qué puedo hacer?":Necesita apoyo técnico
+"Tengo problemas con la conexión a Internet, ¿cómo lo soluciono?":Necesita apoyo técnico
+"El software sigue cerrándose inesperadamente, ¿cómo lo arreglo?":Necesita apoyo técnico
+"No puedo acceder a mi cuenta, ¿qué debo hacer?":Necesita apoyo técnico
+"Mi dispositivo se apaga de forma automática, ¿cómo soluciono esto?":Necesita apoyo técnico
+"La pantalla del producto no responde, ¿qué debo hacer?":Necesita apoyo técnico
+"No puedo encontrar la opción que necesito en la configuración.":Necesita apoyo técnico
+"Estoy recibiendo un error al intentar actualizar el software, ¿cómo lo soluciono?":Necesita apoyo técnico
+"El dispositivo no carga, ¿cuál podría ser el problema?":Necesita apoyo técnico
+"Necesito ayuda para instalar el producto, el proceso no avanza.":Necesita apoyo técnico
+"Este producto ha superado todas mis expectativas.":Halago
+"Es increíble cómo funciona este dispositivo, lo recomiendo totalmente.":Halago
+"Lo mejor que he comprado en mucho tiempo.":Halago
+"Me encanta la calidad de este servicio, totalmente recomendable.":Halago
+"Estoy muy feliz con los resultados, definitivamente volveré a comprarlo.":Halago
+"Es tan fácil de usar, estoy muy satisfecho con mi compra.":Halago
+"Este producto hace justo lo que prometen, ¡genial!":Halago
+"Excelente servicio, lo mejor que he experimentado.":Halago
+"Un producto excelente, el rendimiento es mucho mejor de lo esperado.":Halago
+"Estoy encantado con la compra, fue una excelente decisión.":Halago
+"¿Este modelo es compatible con otros dispositivos Bluetooth?":Información adicional
+"¿Puedo usarlo en todos los países o hay restricciones?":Información adicional
+"¿Cuál es el peso del producto?":Información adicional
+"¿Este servicio tiene algún tipo de garantía?":Información adicional
+"¿Cuánto tiempo dura la batería en uso continuo?":Información adicional
+"¿Hay alguna versión del producto con más capacidad de almacenamiento?":Información adicional
+"¿Cómo puedo obtener soporte técnico si tengo problemas con el producto?":Información adicional
+"¿Puedo cambiar la contraseña de acceso después de configurar el dispositivo?":Información adicional
+"¿Existen actualizaciones disponibles para este software?":Información adicional
+"¿Cómo puedo devolver el producto si no estoy satisfecho?":Información adicional
+"El producto no enciende, ¿qué puedo hacer?":Necesita apoyo técnico
+"No puedo conectar el dispositivo a mi red Wi-Fi, ¿qué puedo intentar?":Necesita apoyo técnico
+"El software sigue fallando cada vez que intento iniciar sesión.":Necesita apoyo técnico
+"El dispositivo se apaga solo sin motivo aparente.":Necesita apoyo técnico
+"No encuentro el botón para activar la función de Bluetooth.":Necesita apoyo técnico
+"El producto no responde a los comandos táctiles, ¿qué está pasando?":Necesita apoyo técnico
+"No puedo acceder a la configuración del dispositivo.":Necesita apoyo técnico
+"El programa se cierra inesperadamente, ¿cómo soluciono esto?":Necesita apoyo técnico
+"El dispositivo no carga, ¿hay algo que pueda hacer para solucionarlo?":Necesita apoyo técnico
+"El sistema no reconoce mi cuenta, ¿cómo puedo restaurarla?":Necesita apoyo técnico
+Este producto ha superado todas mis expectativas.:Halago
+Me encanta lo fácil que es usar este producto, definitivamente lo recomendaré.:Halago
+¡Excelente calidad! Lo usaré todos los días.:Halago
+Muy satisfecho con la compra, el producto funciona de maravilla.:Halago
+¡El mejor servicio al cliente que he tenido! Definitivamente volveré.:Halago
+Este producto es genial, nunca pensé que fuera tan bueno.:Halago
+¡Increíble! El producto cumple todo lo prometido y más.:Halago
+La experiencia de compra fue excelente, todo perfecto.:Halago
+Este producto es fantástico, lo recomendaría a todos.:Halago
+¡Excelente servicio! Estoy muy satisfecho con la compra.:Halago
+Es un producto increíble, mejor de lo que esperaba.:Halago
+Lo uso todos los días y sigue funcionando a la perfección.:Halago
+Estoy encantado con la calidad, es simplemente excelente.:Halago
+¡El mejor dispositivo que he comprado en años!:Halago
+Este producto es realmente impresionante.:Halago
+La experiencia ha sido maravillosa, definitivamente volveré.:Halago
+Es un placer utilizar este producto, ¡es muy fácil de usar!:Halago
+Estoy realmente feliz con la compra, todo funciona perfectamente.:Halago
+Excelente calidad, lo usaré todos los días.:Halago
+Un producto excelente, el rendimiento es mucho mejor de lo esperado.:Halago
+Este producto ha mejorado mi vida, lo recomiendo mucho.:Halago
+El diseño es increíble, todo funciona perfectamente.:Halago
+Este dispositivo es un cambio total, lo amo.:Halago
+Totalmente satisfecho con la compra, lo usaré todo el tiempo.:Halago
+Es el mejor producto que he comprado este año.:Halago
+Definitivamente recomendaré este producto a todos mis amigos.:Halago
+Es la mejor inversión que he hecho, muy útil.:Halago
+Este producto ha hecho mi vida mucho más fácil.:Halago
+Estoy muy feliz con mi compra, excedió mis expectativas.:Halago
+Es justo lo que necesitaba, excelente producto.:Halago
+El producto es increíblemente rápido y fácil de usar.:Halago
+Estoy impresionado con el rendimiento de este producto.:Halago
+Muy contento con la compra, totalmente recomendable.:Halago
+Este producto ha superado todas mis expectativas.:Halago
+Es increíble cómo funciona este dispositivo, lo recomiendo totalmente.:Halago
+Lo mejor que he comprado en mucho tiempo.:Halago
+Me encanta la calidad de este servicio, totalmente recomendable.:Halago
+Estoy muy feliz con los resultados, definitivamente volveré a comprarlo.:Halago
+Es tan fácil de usar, estoy muy satisfecho con mi compra.:Halago
+Este producto hace justo lo que prometen, ¡genial!:Halago
+Excelente servicio, lo mejor que he experimentado.:Halago
+Un producto excelente, el rendimiento es mucho mejor de lo esperado.:Halago
+Estoy encantado con la compra, fue una excelente decisión.:Halago
+
+¿Cuál es el tiempo estimado de entrega para este producto?:Información adicional
+¿Este producto tiene garantía?:Información adicional
+¿Puedes explicarme cómo instalar este software?:Información adicional
+¿Este producto es compatible con otros dispositivos?:Información adicional
+¿Puedo obtener más detalles sobre las especificaciones técnicas del producto?:Información adicional
+¿Tienen algún video tutorial disponible para este producto?:Información adicional
+¿Este modelo de teléfono tiene soporte para 5G?:Información adicional
+¿Puedo usar este producto en todos los países?:Información adicional
+¿Cuál es el peso del producto?:Información adicional
+¿Este servicio tiene algún tipo de garantía?:Información adicional
+¿Cómo puedo obtener soporte técnico si tengo problemas con el producto?:Información adicional
+¿Puedo cambiar la contraseña de acceso después de configurar el dispositivo?:Información adicional
+¿Existen actualizaciones disponibles para este software?:Información adicional
+¿Cómo puedo devolver el producto si no estoy satisfecho?:Información adicional
+¿Este producto incluye un manual de usuario?:Información adicional
+¿Este modelo tiene una versión mejorada?:Información adicional
+¿Cuáles son los requisitos del sistema para usar este software?:Información adicional
+¿Este producto es compatible con otros dispositivos Bluetooth?:Información adicional
+¿Cuánto tiempo dura la batería en uso continuo?:Información adicional
+¿El producto viene con un adaptador?:Información adicional
+¿Este producto tiene alguna opción de personalización?:Información adicional
+¿Cómo puedo cambiar la configuración del producto?:Información adicional
+¿El dispositivo tiene opciones para múltiples idiomas?:Información adicional
+¿Es posible agregar más memoria a este dispositivo?:Información adicional
+¿Este producto tiene diferentes colores disponibles?:Información adicional
+¿Cómo puedo saber si este producto tiene alguna actualización?:Información adicional
+¿El dispositivo es resistente al agua?:Información adicional
+¿Se puede conectar a dispositivos Wi-Fi?:Información adicional
+¿Cuánto tiempo tarda en cargar completamente?:Información adicional
+¿Es posible agregar más capacidad de almacenamiento?:Información adicional
+¿Este producto tiene soporte para diferentes voltajes?:Información adicional
+¿Dónde puedo encontrar las instrucciones de instalación?:Información adicional
+¿El dispositivo tiene un error de hardware que necesito solucionar?:Información adicional
+¿Este producto tiene algún defecto? No está funcionando como se espera.:Información adicional
+
+El producto no funciona correctamente, ¿pueden ayudarme?:Necesita apoyo técnico
+Estoy teniendo problemas con la conexión, ¿cómo puedo solucionarlo?:Necesita apoyo técnico
+Mi dispositivo se apaga solo, ¿qué debo hacer?:Necesita apoyo técnico
+No puedo acceder a mi cuenta, ¿me podrían ayudar a recuperar mi contraseña?:Necesita apoyo técnico
+El software se cierra de forma inesperada, ¿cómo lo soluciono?:Necesita apoyo técnico
+¿Pueden ayudarme con la instalación? El proceso no avanza.:Necesita apoyo técnico
+No entiendo cómo usar esta característica, ¿pueden explicármelo?:Necesita apoyo técnico
+¿Este producto tiene algún defecto? No está funcionando como se espera.:Necesita apoyo técnico
+No puedo conectar el dispositivo a mi red Wi-Fi, ¿qué puedo intentar?:Necesita apoyo técnico
+El software sigue cerrándose inesperadamente, ¿cómo lo arreglo?:Necesita apoyo técnico
+No puedo acceder a mi cuenta, ¿qué debo hacer?:Necesita apoyo técnico
+Mi dispositivo se apaga de forma automática, ¿cómo soluciono esto?:Necesita apoyo técnico
+La pantalla del producto no responde, ¿qué debo hacer?:Necesita apoyo técnico
+No puedo encontrar la opción que necesito en la configuración.:Necesita apoyo técnico
+Estoy recibiendo un error al intentar actualizar el software, ¿cómo lo soluciono?:Necesita apoyo técnico
+El dispositivo no carga, ¿cuál podría ser el problema?:Necesita apoyo técnico
+Necesito ayuda para instalar el producto, el proceso no avanza.:Necesita apoyo técnico
+El programa se cierra inesperadamente, ¿cómo soluciono esto?:Necesita apoyo técnico
+El dispositivo no enciende, ¿qué puedo hacer?:Necesita apoyo técnico
+El producto no responde a los comandos táctiles, ¿qué está pasando?:Necesita apoyo técnico
+No puedo acceder a la configuración del dispositivo.:Necesita apoyo técnico
+El sistema no reconoce mi cuenta, ¿cómo puedo restaurarla?:Necesita apoyo técnico
+No puedo instalar la actualización, ¿qué debo hacer?:Necesita apoyo técnico
+¿Puedo obtener soporte si el dispositivo no se conecta correctamente?:Necesita apoyo técnico
+El producto sigue fallando, ¿cómo puedo solucionarlo?:Necesita apoyo técnico
+No puedo realizar una actualización del software, ¿por qué?:Necesita apoyo técnico
+¿Cómo restablezco los valores de fábrica del dispositivo?:Necesita apoyo técnico
+¿El dispositivo tiene un error de hardware que necesito solucionar?:Necesita apoyo técnico
+El dispositivo no arranca, ¿pueden ayudarme?:Necesita apoyo técnico
+El software no se instala correctamente, ¿cuál es el problema?:Necesita apoyo técnico
+¿Por qué mi dispositivo no está funcionando como debería?:Necesita apoyo técnico
+Mi dispositivo no tiene señal, ¿cómo soluciono esto?:Necesita apoyo técnico
+¿Cómo puedo solucionar el problema de la conexión Wi-Fi?:Necesita apoyo técnico
+El producto no se conecta a mi red, ¿qué debo hacer?:Necesita apoyo técnico
+"Excelente producto, completamente recomendado.":Halago
+"Me encanta lo fácil que es usar este producto, ¡una gran compra!":Halago
+"Totalmente satisfecho con la compra, volveré a comprar aquí.":Halago
+"¡La calidad es inmejorable! Recomendado al 100%.":Halago
+"Es increíble lo bien que funciona este producto, excelente calidad.":Halago
+"El mejor servicio al cliente que he recibido en mucho tiempo.":Halago
+"Totalmente encantado con este producto, vale cada centavo.":Halago
+"Gran experiencia de compra, muy contento con la atención al cliente.":Halago
+"Excelente calidad de materiales y funciona perfectamente.":Halago
+"Este producto es una maravilla, totalmente superó mis expectativas.":Halago
+"Una compra excelente, nunca me había sentido tan satisfecho.":Halago
+"Gran calidad en todos los aspectos, lo recomiendo sin dudar.":Halago
+"Todo perfecto, el envío fue rápido y el producto funciona a la perfección.":Halago
+"¡Increíble! El producto es mucho mejor de lo que esperaba.":Halago
+"Todo lo que necesito en un solo producto, me encanta.":Halago
+"Recomiendo este producto, tiene un desempeño impresionante.":Halago
+"¡Es justo lo que necesitaba! Estoy muy contento con la compra.":Halago
+"Producto excelente, me ha facilitado la vida, muy satisfecho.":Halago
+"El mejor gadget que he comprado en mucho tiempo.":Halago
+"Todo perfecto, funciona sin problemas y la calidad es excepcional.":Halago
+"Lo que esperaba y más, gran experiencia de compra.":Halago
+
+"¿Cuál es el tiempo estimado de entrega para este producto?":Información adicional
+"¿Este producto incluye una garantía?":Información adicional
+"¿El producto es compatible con otros dispositivos?":Información adicional
+"¿Cuáles son los detalles de la instalación de este producto?":Información adicional
+"¿Este producto tiene alguna característica especial que deba conocer?":Información adicional
+"¿Cuál es el peso del producto?":Información adicional
+"¿Este servicio tiene algún tipo de soporte técnico disponible?":Información adicional
+"¿Puedo obtener más detalles sobre las especificaciones del producto?":Información adicional
+"¿Este producto tiene algún defecto conocido?":Información adicional
+"¿Este producto tiene actualizaciones de software disponibles?":Información adicional
+"¿Puedo devolver el producto si no estoy satisfecho?":Información adicional
+"¿Este producto incluye algún manual de usuario?":Información adicional
+"¿Dónde puedo encontrar tutoriales sobre este producto?":Información adicional
+"¿Este producto funciona con la red 5G?":Información adicional
+"¿Es posible conseguir más colores de este producto?":Información adicional
+"¿Este producto tiene alguna recomendación de uso?":Información adicional
+"¿Puedo usarlo en exteriores?":Información adicional
+"¿Este producto es adecuado para personas con alergias?":Información adicional
+"¿Cuál es la duración de la batería del producto?":Información adicional
+"¿Cuánto tiempo dura la garantía?":Información adicional
+
+"Mi dispositivo no enciende, ¿qué debo hacer?":Necesita apoyo técnico
+"El producto se congela constantemente, ¿hay alguna solución?":Necesita apoyo técnico
+"¿Cómo puedo configurar este producto para mi red Wi-Fi?":Necesita apoyo técnico
+"El dispositivo no reconoce mi cuenta, ¿cómo puedo solucionarlo?":Necesita apoyo técnico
+"No puedo instalar el software, ¿pueden ayudarme?":Necesita apoyo técnico
+"El sistema se apaga solo, ¿qué debo hacer?":Necesita apoyo técnico
+"No puedo acceder a la aplicación, ¿qué pasos debo seguir?":Necesita apoyo técnico
+"Mi dispositivo no responde, ¿cómo lo reinicio?":Necesita apoyo técnico
+"¿Cómo puedo restablecer el dispositivo a su configuración de fábrica?":Necesita apoyo técnico
+"No puedo conectarme a Internet, ¿pueden ayudarme?":Necesita apoyo técnico
+"Mi cuenta está bloqueada, ¿cómo puedo recuperarla?":Necesita apoyo técnico
+"No puedo encontrar el botón de encendido, ¿dónde está?":Necesita apoyo técnico
+"¿Cómo puedo reparar un error de conexión?":Necesita apoyo técnico
+"El dispositivo no carga, ¿qué puede estar ocurriendo?":Necesita apoyo técnico
+"Estoy teniendo problemas con la sincronización, ¿cómo lo resuelvo?":Necesita apoyo técnico
+"No puedo descargar la actualización del software, ¿qué hago?":Necesita apoyo técnico
+"El producto no responde a los comandos táctiles, ¿qué debo hacer?":Necesita apoyo técnico
+"Mi dispositivo se sobrecalienta, ¿cómo puedo evitarlo?":Necesita apoyo técnico
+"No puedo instalar las actualizaciones, ¿me podrían ayudar?":Necesita apoyo técnico
+"El software no se ejecuta correctamente, ¿qué soluciones hay?":Necesita apoyo técnico
+
+"¡Este producto es increíble! Superó todas mis expectativas.":Halago
+"Me encanta cómo funciona este dispositivo, es perfecto.":Halago
+"Totalmente recomendado, el producto es excelente.":Halago
+"Una compra fantástica, no me arrepiento.":Halago
+"Lo mejor que he adquirido en mucho tiempo, calidad impresionante.":Halago
+"Este producto ha mejorado mi vida diaria, estoy muy contento.":Halago
+"Estoy completamente satisfecho con mi compra, vale cada centavo.":Halago
+"Excelente producto, lo recomiendo sin dudar.":Halago
+"Lo uso todos los días, y sigue funcionando a la perfección.":Halago
+"Es lo mejor que he comprado, calidad inmejorable.":Halago
+"Totalmente feliz con el producto, muy fácil de usar.":Halago
+"Este producto superó mis expectativas en todos los aspectos.":Halago
+"Lo compré para un regalo, ¡y la persona quedó encantada!":Halago
+"Producto de excelente calidad, realmente vale la pena.":Halago
+"Es muy intuitivo y fácil de usar.":Halago
+"Excelente compra, todo perfecto desde el principio.":Halago
+"Lo mejor que he probado, totalmente recomendable.":Halago
+"Me encanta este producto, nunca había visto algo tan útil.":Halago
+"Gran calidad y rendimiento, estoy muy contento con mi compra.":Halago
+"Este producto es excepcional, lo recomiendo sin duda.":Halago
+"Me ha sorprendido gratamente, excelente calidad y rendimiento.":Halago
+"Gran compra, muy satisfecho con la elección.":Halago
+"Este dispositivo ha cambiado la forma en que trabajo, muy útil.":Halago
+"Totalmente satisfecho con el producto, la calidad es increíble.":Halago
+"Excelente atención al cliente, sin duda volveré a comprar.":Halago
+"Lo mejor de lo mejor, un producto que vale cada centavo.":Halago
+"Recomiendo completamente este producto, superó mis expectativas.":Halago
+"¡Qué gran experiencia de compra! Muy contento con el resultado.":Halago
+"Este producto me ha facilitado mucho la vida, muy eficiente.":Halago
+"Funciona perfectamente, la calidad es insuperable.":Halago
+"Una compra excelente, todo perfecto desde el principio.":Halago
+"Este producto es todo lo que necesitaba, ¡no me arrepiento!":Halago
+"¡Un producto increíble, definitivamente recomendaré a todos!":Halago
+"Lo uso todos los días, me ha cambiado la forma de trabajar.":Halago
+"El mejor producto que he probado, funciona de maravilla.":Halago
+"Perfecto para mis necesidades, es todo lo que esperaba.":Halago
+"Es un producto de excelente calidad y muy fácil de usar.":Halago
+"Impresionado con la calidad, lo recomiendo totalmente.":Halago
+"Una compra muy acertada, muy contento con la adquisición.":Halago
+
+"¿Este producto es compatible con otros modelos de la marca?":Información adicional
+"¿Puedo usar este producto en otros dispositivos?":Información adicional
+"¿El producto tiene soporte para varios idiomas?":Información adicional
+"¿Cuáles son las características técnicas de este producto?":Información adicional
+"¿Este producto tiene alguna versión más avanzada?":Información adicional
+"¿Puedo obtener más detalles sobre las especificaciones del producto?":Información adicional
+"¿Este producto tiene alguna recomendación de uso?":Información adicional
+"¿Cuál es la capacidad máxima del producto?":Información adicional
+"¿Este producto tiene una batería removible?":Información adicional
+"¿Puedo usar el producto en exteriores?":Información adicional
+"¿Es necesario realizar actualizaciones de software para este producto?":Información adicional
+"¿El producto tiene algún tipo de garantía?":Información adicional
+"¿Qué tipo de accesorios están incluidos con el producto?":Información adicional
+"¿Este producto viene con un manual de usuario detallado?":Información adicional
+"¿Cuánto dura la garantía de este producto?":Información adicional
+"¿Este producto es adecuado para su uso en entornos comerciales?":Información adicional
+"¿El producto requiere alguna instalación especial?":Información adicional
+"¿Cuánto tiempo de vida útil tiene este producto?":Información adicional
+"¿Este producto está disponible en otros colores?":Información adicional
+"¿Es compatible con sistemas operativos más antiguos?":Información adicional
+
+"Mi dispositivo no enciende, ¿qué debo hacer?":Necesita apoyo técnico
+"¿Cómo puedo solucionar el error de conexión?":Necesita apoyo técnico
+"El producto no carga correctamente, ¿cómo lo soluciono?":Necesita apoyo técnico
+"No puedo acceder a la cuenta, ¿cómo restablezco mi contraseña?":Necesita apoyo técnico
+"El software no funciona correctamente, ¿qué pasos seguir?":Necesita apoyo técnico
+"El dispositivo se apaga inesperadamente, ¿cómo evitarlo?":Necesita apoyo técnico
+"¿Cómo puedo restaurar el producto a su configuración predeterminada?":Necesita apoyo técnico
+"No puedo conectar el dispositivo a mi red, ¿qué debo hacer?":Necesita apoyo técnico
+"El producto se congela cada vez que lo intento usar, ¿cómo lo arreglo?":Necesita apoyo técnico
+"¿Cómo solucionar el problema de la batería que se descarga rápidamente?":Necesita apoyo técnico
+"El dispositivo no está respondiendo a los toques, ¿cómo lo reinicio?":Necesita apoyo técnico
+"¿Este producto es compatible con la última versión del sistema operativo?":Necesita apoyo técnico
+"Mi cuenta se bloqueó, ¿cómo puedo recuperarla?":Necesita apoyo técnico
+"El producto está muy lento, ¿cómo puedo mejorar su rendimiento?":Necesita apoyo técnico
+"No puedo instalar la última actualización, ¿qué hago?":Necesita apoyo técnico
+"¿Cómo puedo solucionar el error de pantalla en blanco?":Necesita apoyo técnico
+"El dispositivo no se sincroniza, ¿qué puedo hacer?":Necesita apoyo técnico
+"No puedo hacer que el producto funcione correctamente, ¿me podrían ayudar?":Necesita apoyo técnico
+"¿Cómo puedo configurar correctamente el software en mi dispositivo?":Necesita apoyo técnico
+"El dispositivo no detecta mi red Wi-Fi, ¿cómo lo soluciono?":Necesita apoyo técnico
+
+"¡El producto es increíble! Superó todas mis expectativas.":Halago
+"Estoy completamente satisfecho, lo recomendaré a todos.":Halago
+"Es el mejor producto que he comprado en mucho tiempo, excelente calidad.":Halago
+"Totalmente recomendado, el rendimiento es espectacular.":Halago
+"Funciona perfectamente, la mejor compra que he hecho.":Halago
+"Estoy encantado con el servicio al cliente, muy profesionales.":Halago
+"Lo que más me gusta es lo fácil de usar que es.":Halago
+"Este producto ha superado lo que esperaba, ¡es perfecto!":Halago
+"Me encanta lo bien que funciona, totalmente recomendable.":Halago
+"Un producto que vale la pena, muy contento con la compra.":Halago
+"Excelente producto, calidad impresionante y a buen precio.":Halago
+"Perfecto para lo que necesitaba, ¡totalmente satisfecho!":Halago
+"Es tan fácil de usar que no puedo dejar de recomendarlo.":Halago
+"Estoy muy feliz con el producto, funciona exactamente como esperaba.":Halago
+"Recomiendo este producto a cualquiera que busque calidad y rendimiento.":Halago
+"Es increíble lo bien que funciona, no me esperaba tanto.":Halago
+"Una de las mejores compras que he hecho, ¡no me arrepiento!":Halago
+"Es simplemente lo mejor, gran inversión.":Halago
+"Este producto es la solución perfecta para lo que buscaba.":Halago
+"Totalmente increíble, lo mejor que he probado.":Halago
+"Este producto es increíble, realmente me sorprendió.":Halago
+"Excelente compra, no puedo estar más satisfecho con este producto.":Halago
+"Superó todas mis expectativas, totalmente recomendado.":Halago
+"Lo uso todos los días, es esencial para mi rutina.":Halago
+"Me encanta la calidad, funciona perfectamente bien.":Halago
+"Es justo lo que buscaba, no podría estar más feliz con la compra.":Halago
+"Un dispositivo increíble, siempre cumple lo prometido.":Halago
+"Este producto tiene una relación calidad-precio excepcional.":Halago
+"La experiencia de compra fue excelente y el producto mejor aún.":Halago
+"Totalmente satisfecho con la compra, lo recomiendo al 100%.":Halago
+"Gran compra, no podría estar más contento con este producto.":Halago
+"Perfecto para mis necesidades, realmente vale la pena.":Halago
+"Es el mejor producto que he usado en su categoría.":Halago
+"Impresionado con su rendimiento, es justo lo que buscaba.":Halago
+"Este producto no solo es útil, sino también de excelente calidad.":Halago
+"Excelente servicio y atención al cliente.":Halago
+"Lo recomiendo completamente, tiene un rendimiento excelente.":Halago
+"El mejor producto que he probado hasta ahora, sin duda alguna.":Halago
+"Me ha facilitado mucho la vida, excelente compra.":Halago
+"Funciona perfectamente, muy contento con mi elección.":Halago
+
+"¿Este producto tiene alguna limitación en cuanto a compatibilidad?":Información adicional
+"¿Puedo usar este producto con otros dispositivos?":Información adicional
+"¿Cuál es la durabilidad estimada de este producto?":Información adicional
+"¿Este producto tiene un límite de almacenamiento?":Información adicional
+"¿Este producto está diseñado para uso en exteriores?":Información adicional
+"¿Tiene alguna recomendación sobre el uso del producto?":Información adicional
+"¿Este producto es adecuado para usuarios principiantes?":Información adicional
+"¿Está el producto disponible en otros tamaños o modelos?":Información adicional
+"¿Este producto requiere alguna instalación previa antes de su uso?":Información adicional
+"¿Cómo puedo realizar un mantenimiento adecuado del producto?":Información adicional
+"¿Este producto es fácil de usar para personas mayores?":Información adicional
+"¿Puedo recibir soporte en caso de problemas con este producto?":Información adicional
+"¿Este producto tiene alguna recomendación de actualización de software?":Información adicional
+"¿Qué tipo de batería usa este producto?":Información adicional
+"¿Cuál es la velocidad máxima de este producto?":Información adicional
+"¿Este producto se puede utilizar en diferentes países?":Información adicional
+"¿Este producto tiene alguna función especial que lo haga único?":Información adicional
+"¿Este producto incluye una guía de usuario detallada?":Información adicional
+"¿Este dispositivo se puede conectar a otros productos de la misma marca?":Información adicional
+"¿Cuál es la vida útil del producto según el fabricante?":Información adicional
+
+"Mi dispositivo no se enciende, ¿qué debo hacer?":Necesita apoyo técnico
+"No puedo conectar mi cuenta, ¿cómo recupero mis datos?":Necesita apoyo técnico
+"El producto no carga, ¿qué debo verificar?":Necesita apoyo técnico
+"El sistema sigue fallando, ¿hay alguna solución?":Necesita apoyo técnico
+"El software se cierra inesperadamente, ¿cómo lo soluciono?":Necesita apoyo técnico
+"No puedo acceder a mis archivos, ¿cómo recupero los datos?":Necesita apoyo técnico
+"El dispositivo está muy lento, ¿cómo puedo mejorar su rendimiento?":Necesita apoyo técnico
+"¿Cómo resuelvo el problema de la conexión a Wi-Fi?":Necesita apoyo técnico
+"El producto se apaga solo, ¿qué debo hacer para solucionarlo?":Necesita apoyo técnico
+"No puedo acceder a mi cuenta, ¿cómo restablezco mi contraseña?":Necesita apoyo técnico
+"Mi producto no responde a los comandos táctiles, ¿qué debo hacer?":Necesita apoyo técnico
+"El dispositivo no se sincroniza con otros equipos, ¿qué puedo hacer?":Necesita apoyo técnico
+"El error 'conexión perdida' sigue apareciendo, ¿cómo lo soluciono?":Necesita apoyo técnico
+"El sistema está mostrando errores constantes, ¿qué pasos seguir?":Necesita apoyo técnico
+"No encuentro el botón de reinicio del dispositivo, ¿dónde está?":Necesita apoyo técnico
+"El producto está dando un mensaje de error, ¿cómo puedo solucionarlo?":Necesita apoyo técnico
+"No puedo usar el producto después de la actualización, ¿qué pasó?":Necesita apoyo técnico
+"El dispositivo se congela al usarlo, ¿cómo puedo arreglarlo?":Necesita apoyo técnico
+"¿Cómo puedo reinstalar el software que venía con el producto?":Necesita apoyo técnico
+"¿Este producto requiere alguna configuración especial antes de usarlo?":Necesita apoyo técnico
+
+"Este producto ha cambiado por completo mi experiencia de trabajo.":Halago
+"Excelente calidad de materiales, se nota que es duradero.":Halago
+"Superó mis expectativas, es un producto increíble.":Halago
+"Este producto es todo lo que esperaba y más, funciona perfectamente.":Halago
+"El servicio fue excelente, me ayudaron en todo momento.":Halago
+"Es exactamente lo que necesitaba, muy funcional y fácil de usar.":Halago
+"Lo recomiendo sin duda alguna, es un producto excelente.":Halago
+"Es el mejor dispositivo de su tipo, lo he probado y cumple todo.":Halago
+"¡Increíble! Funciona mejor de lo que esperaba, lo recomiendo mucho.":Halago
+"Totalmente satisfecho con la compra, no me arrepiento para nada.":Halago
+"Es muy intuitivo y fácil de usar, perfecto para principiantes.":Halago
+"Es tan útil que no puedo dejar de recomendarlo.":Halago
+"Este producto ha mejorado significativamente mi productividad.":Halago
+"Lo uso todos los días y no tengo ninguna queja, es excelente.":Halago
+"Es un producto tan útil que no puedo imaginar mi día a día sin él.":Halago
+"Este producto hace exactamente lo que promete, sin complicaciones.":Halago
+"Simplemente el mejor en su categoría, gran compra.":Halago
+"Este producto ha cambiado mi forma de trabajar, ¡una maravilla!":Halago
+"Es un producto de 10, la mejor compra que he hecho.":Halago
+"Me encanta la facilidad de uso, y la calidad es inigualable.":Halago
+"Este producto me ha impresionado, realmente superó mis expectativas.":Halago
+"La calidad de este producto es increíble, sin duda lo recomendaré.":Halago
+"Me encanta cómo funciona, definitivamente seguiré comprando esta marca.":Halago
+"Es exactamente lo que necesitaba, lo recomiendo a todos.":Halago
+"Este dispositivo ha mejorado mi vida, es tan práctico y funcional.":Halago
+"Estoy muy satisfecho con mi compra, cumple con todo lo prometido.":Halago
+"Totalmente recomendado, es perfecto para lo que necesito.":Halago
+"Es un producto muy completo, vale cada centavo.":Halago
+"Excelente compra, la calidad es impresionante y funciona de maravilla.":Halago
+"Este producto hace exactamente lo que prometen, muy feliz con la compra.":Halago
+"Me ha encantado el rendimiento, estoy muy satisfecho con mi elección.":Halago
+"Este producto ha transformado mi experiencia, mucho mejor de lo esperado.":Halago
+"Es tan fácil de usar y realmente hace el trabajo perfecto.":Halago
+"Lo uso todos los días, es muy confiable y nunca me ha fallado.":Halago
+"¡Increíble! Tiene todas las funciones que buscaba y más.":Halago
+"Este producto tiene una gran relación calidad-precio.":Halago
+"Totalmente satisfecho con el producto, mi compra ha valido la pena.":Halago
+"La atención al cliente ha sido increíble y el producto mejor aún.":Halago
+"Este producto se ha ganado mi confianza, no me arrepiento de la compra.":Halago
+"Es un producto de calidad que recomendaría sin dudarlo.":Halago
+
+"¿Puedo usar este producto en diferentes dispositivos?":Información adicional
+"¿Este producto es compatible con otros sistemas operativos?":Información adicional
+"¿Tiene alguna función especial que me permita personalizarlo a mi gusto?":Información adicional
+"¿El producto es fácil de transportar o es muy pesado?":Información adicional
+"¿Este dispositivo tiene alguna función de ahorro de energía?":Información adicional
+"¿Este producto incluye algún tipo de garantía o soporte técnico?":Información adicional
+"¿Este producto es resistente al agua?":Información adicional
+"¿Cuánto tiempo tarda en cargarse por completo?":Información adicional
+"¿El producto tiene alguna función de conectividad inalámbrica?":Información adicional
+"¿El producto requiere actualizaciones frecuentes para seguir funcionando bien?":Información adicional
+"¿Hay alguna restricción de uso en ciertos países o regiones?":Información adicional
+"¿Este producto es apto para niños o se recomienda para adultos?":Información adicional
+"¿El producto incluye manual de usuario o guías de instalación?":Información adicional
+"¿Este producto se puede usar en interiores y exteriores?":Información adicional
+"¿Este producto tiene alguna opción de personalización de colores o apariencia?":Información adicional
+"¿Este dispositivo tiene alguna opción de respaldo de datos?":Información adicional
+"¿Hay un límite en cuanto al número de usuarios que pueden usar este producto simultáneamente?":Información adicional
+"¿Este producto se puede usar con otros accesorios de la marca?":Información adicional
+"¿Este producto tiene funciones de accesibilidad para personas con discapacidad?":Información adicional
+"¿Este producto tiene compatibilidad con asistentes virtuales como Alexa o Google Assistant?":Información adicional
+
+"El sistema sigue mostrando un error, ¿cómo lo soluciono?":Necesita apoyo técnico
+"No puedo acceder a mi cuenta, ¿cómo restablezco mi contraseña?":Necesita apoyo técnico
+"El dispositivo se apaga sin razón, ¿qué debo hacer?":Necesita apoyo técnico
+"No puedo conectar mi dispositivo a Internet, ¿cuál podría ser el problema?":Necesita apoyo técnico
+"¿Por qué mi producto no está cargando correctamente?":Necesita apoyo técnico
+"El software se congela constantemente, ¿cómo puedo solucionar esto?":Necesita apoyo técnico
+"Mi producto no está recibiendo actualizaciones, ¿qué debo hacer?":Necesita apoyo técnico
+"El dispositivo no se sincroniza con mi teléfono, ¿cómo lo soluciono?":Necesita apoyo técnico
+"No puedo encontrar la opción de configuración que necesito, ¿pueden ayudarme?":Necesita apoyo técnico
+"Mi dispositivo no responde a los comandos táctiles, ¿qué hago?":Necesita apoyo técnico
+"El audio del producto no funciona, ¿es posible solucionarlo?":Necesita apoyo técnico
+"No encuentro el manual de usuario, ¿dónde lo puedo encontrar?":Necesita apoyo técnico
+"Mi conexión Wi-Fi sigue desconectándose, ¿cómo la arreglo?":Necesita apoyo técnico
+"¿Cómo puedo recuperar mis datos después de una falla en el sistema?":Necesita apoyo técnico
+"El producto hace ruidos extraños, ¿es normal o necesito ayuda?":Necesita apoyo técnico
+"No puedo cambiar la configuración de mi cuenta, ¿qué hago?":Necesita apoyo técnico
+"El dispositivo está muy lento, ¿cómo puedo mejorar su rendimiento?":Necesita apoyo técnico
+"¿Cómo desinstalo el software para volver a instalarlo correctamente?":Necesita apoyo técnico
+"El producto se reinicia constantemente, ¿qué puede estar pasando?":Necesita apoyo técnico
+"El dispositivo no se conecta a mi red Bluetooth, ¿qué debo verificar?":Necesita apoyo técnico
+"El producto muestra un error de conexión, ¿cómo lo soluciono?":Necesita apoyo técnico
+
+"Es un producto excelente, tiene todo lo que necesito.":Halago
+"Me ha facilitado tanto el trabajo, es una compra muy recomendable.":Halago
+"Es justo lo que esperaba, ¡estoy encantado con este producto!":Halago
+"Este producto hace exactamente lo que promete, sin fallos.":Halago
+"Realmente me impresiona lo bien que funciona este dispositivo.":Halago
+"Lo uso a diario y sigue funcionando a la perfección.":Halago
+"Perfecto para lo que necesito, totalmente recomendable.":Halago
+"Este producto ha cambiado mi forma de trabajar, es increíble.":Halago
+"Gran calidad, funciona perfectamente, muy fácil de usar.":Halago
+"Me encanta lo útil que es y cómo facilita mis tareas diarias.":Halago
+"Este producto es una gran inversión, tiene muchas funcionalidades.":Halago
+"Lo mejor que he comprado este año, sin duda.":Halago
+"Es una herramienta increíblemente útil, la mejor compra que he hecho.":Halago
+"Todo lo que necesitaba en un solo producto, ¡excelente!":Halago
+"Superó mis expectativas, sin lugar a dudas.":Halago
+"El rendimiento de este producto es impresionante, estoy muy feliz con mi compra.":Halago
+"Lo mejor que he probado, excelente compra.":Halago
+"Este producto hace todo lo que prometen y mucho más.":Halago
+"Gran dispositivo, no me arrepiento para nada de la compra.":Halago
+"¡Me encanta! Este producto realmente facilita mi vida.":Halago
+"El producto dejó de funcionar después de unos días de uso.":Necesita apoyo técnico
+"No recibí respuesta de su equipo de soporte, muy decepcionante.":Necesita apoyo técnico
+"No me gustó nada este producto, no vale la pena.":Necesita apoyo técnico
+"Mi pedido llegó tarde y el paquete estaba dañado.":Información adicional
+"No encuentro la opción que necesito en la configuración.":Necesita apoyo técnico
+"Este producto es muy lento y no cumple con lo prometido.":Necesita apoyo técnico
+"El servicio de atención al cliente fue muy lento.":Necesita apoyo técnico
+"El producto no tiene la calidad que esperaba.":Necesita apoyo técnico
+"El proceso de instalación fue muy complicado.":Necesita apoyo técnico
+"Mi dispositivo no se conecta a mi red Wi-Fi.":Necesita apoyo técnico
+"No estoy contento con la compra, me arrepiento.":Necesita apoyo técnico
+"El software sigue fallando cada vez que intento iniciar sesión.":Necesita apoyo técnico
+"No me funciona correctamente después de la actualización.":Necesita apoyo técnico
+"El producto vino con piezas faltantes.":Necesita apoyo técnico
+"Me esperaba más por el precio que pagué.":Necesita apoyo técnico
+"El sistema no me reconoce al intentar iniciar sesión.":Necesita apoyo técnico
+"Los colores no son como se ven en la foto.":Necesita apoyo técnico
+"El soporte técnico no pudo solucionar mi problema.":Necesita apoyo técnico
+"No sé cómo devolverlo, no hay opción en la web.":Información adicional
+"La calidad del sonido es pésima, no lo recomiendo.":Necesita apoyo técnico
+"No puedo encontrar los controladores adecuados para mi dispositivo.":Necesita apoyo técnico
+"Mi dispositivo no enciende.":Necesita apoyo técnico
+"No pude encontrar soporte técnico para mi problema.":Necesita apoyo técnico
+"Los auriculares no se conectan correctamente a mi PC.":Necesita apoyo técnico
+"No me lo entregaron en el tiempo prometido.":Información adicional
+"El producto no es compatible con mi sistema operativo.":Información adicional
+"El cable se rompió después de usarlo una vez.":Necesita apoyo técnico
+"Los detalles del producto en el sitio web no son correctos.":Necesita apoyo técnico
+"No puedo conectar mi dispositivo a la red.":Necesita apoyo técnico
+"No me gustó la experiencia de compra.":Necesita apoyo técnico
+"El servicio no responde a mis mensajes.":Necesita apoyo técnico
+"El tamaño no es lo que esperaba.":Necesita apoyo técnico
+"El diseño es incomodísimo, no lo usaría.":Necesita apoyo técnico
+"Me dijeron que mi pedido estaba en camino, pero nunca llegó.":Información adicional
+"Mi dispositivo no se conecta con otros equipos Bluetooth.":Necesita apoyo técnico
+"El volumen del dispositivo es muy bajo.":Necesita apoyo técnico
+"No encontré el manual de usuario del producto.":Información adicional
+"El producto no vino con todos los accesorios.":Necesita apoyo técnico
+"No sé cómo instalar el producto, no hay instrucciones claras.":Necesita apoyo técnico
+"El producto vino con errores en la pantalla.":Necesita apoyo técnico
+"El proceso de devolución es muy complicado.":Información adicional
+"Me han cobrado más de lo que me dijeron en la página.":Información adicional
+"Los cables son muy cortos, no me sirven.":Necesita apoyo técnico
+"Este producto no vale lo que cuesta.":Necesita apoyo técnico
+"El soporte no ofrece una solución, solo me dicen que lo intente de nuevo.":Necesita apoyo técnico
+"No puedo conectarme a la red con este producto.":Necesita apoyo técnico
+"Mi dispositivo no se sincroniza con otros dispositivos.":Necesita apoyo técnico
+"No puedo restaurar mi cuenta, he olvidado la contraseña.":Necesita apoyo técnico
+"El proceso de registro no funciona correctamente.":Necesita apoyo técnico
+"El producto no tiene el mismo rendimiento que se anunciaba.":Necesita apoyo técnico
+"Las instrucciones de uso son muy confusas.":Necesita apoyo técnico
+"El software no responde cuando intento usarlo.":Necesita apoyo técnico
+"No puedo recibir soporte técnico, es muy lento.":Necesita apoyo técnico
+"Mi dispositivo se apaga cada vez que lo uso.":Necesita apoyo técnico
+"El envío fue demasiado largo, esperaba más rapidez.":Información adicional
+"El color del producto es completamente diferente a lo que me mostraron.":Necesita apoyo técnico
+"El diseño del producto es muy pobre.":Necesita apoyo técnico
+"Mi dispositivo no enciende.":Necesita apoyo técnico
+"Me he dado cuenta de que el producto tiene defectos internos.":Necesita apoyo técnico
+"Las características no son lo que esperaba.":Necesita apoyo técnico
+"El servicio no es tan rápido como dijeron.":Información adicional
+"Mi pedido llegó muy tarde, esperaba más rapidez.":Información adicional
+"El producto tiene un mal olor.":Necesita apoyo técnico
+"No pude configurar el producto, las instrucciones no eran claras.":Necesita apoyo técnico
+"El dispositivo no es compatible con mi sistema operativo.":Necesita apoyo técnico
+"El producto llegó dañado, no me lo esperaba.":Necesita apoyo técnico
+"Me costó mucho instalar el producto, no hay instrucciones adecuadas.":Necesita apoyo técnico
+"El producto dejó de funcionar después de unas semanas de uso.":Necesita apoyo técnico
+"El software siempre da errores al intentar usarlo.":Necesita apoyo técnico
+"El envío fue muy tardado y mi paquete llegó dañado.":Información adicional
+"El dispositivo no conecta a la red correctamente.":Necesita apoyo técnico
+"Las especificaciones del producto no coinciden con lo que se anuncia.":Necesita apoyo técnico
+"El servicio al cliente no fue útil en absoluto.":Necesita apoyo técnico
+"El producto no está funcionando como esperaba, estoy muy decepcionado.":Necesita apoyo técnico
+"No pude activar la función que necesito.":Necesita apoyo técnico
+"El rendimiento es mucho peor que lo que esperaba.":Necesita apoyo técnico
+"El cable se rompió después de un mes de uso.":Necesita apoyo técnico
+"Me dijeron que el producto tenía ciertas características, pero no las tiene.":Necesita apoyo técnico
+"El producto no es tan bueno como lo prometen en la descripción.":Necesita apoyo técnico
+"No encontré soporte adecuado para mi problema.":Necesita apoyo técnico
+"El software es muy inestable y se cierra constantemente.":Necesita apoyo técnico
+"No recibí el producto que pedí.":Información adicional
+"El producto es muy lento, no cumple con lo que se promete.":Necesita apoyo técnico
+"Me arrepiento de haber comprado este producto.":Necesita apoyo técnico
+"El dispositivo no responde bien a los comandos táctiles.":Necesita apoyo técnico
+"El soporte técnico no me ayudó con la solución del problema.":Necesita apoyo técnico
+"No puedo encontrar las características que se mencionan en la descripción.":Necesita apoyo técnico
+"El producto vino incompleto, faltan piezas.":Necesita apoyo técnico
+"El proceso de devolución fue muy complicado.":Información adicional
+"No pude conectar mi dispositivo a la red Wi-Fi.":Necesita apoyo técnico
+"El dispositivo no funciona bien en varias de las condiciones que indican.":Necesita apoyo técnico
+"Las instrucciones del manual son muy confusas.":Necesita apoyo técnico
+"Mi dispositivo se apaga solo de repente.":Necesita apoyo técnico
+"Me cobraron de más por el producto.":Información adicional
+"El producto está muy mal diseñado, no cumple su función.":Necesita apoyo técnico
+"El paquete llegó tarde y con daños visibles.":Información adicional
+"No puedo encontrar mi pedido, no me dan información.":Información adicional
+"No está claro cómo devolver el producto.":Información adicional
+"Me enviaron un producto diferente al que pedí.":Información adicional
+"El producto no tiene las funcionalidades que prometieron.":Necesita apoyo técnico
+"No funciona correctamente, no lo puedo utilizar.":Necesita apoyo técnico
+"El tamaño es incorrecto, no se ajusta a lo que esperaba.":Necesita apoyo técnico
+"Mi dispositivo no se conecta correctamente al internet.":Necesita apoyo técnico
+"El producto llegó defectuoso, no puedo usarlo.":Necesita apoyo técnico
+"El soporte no responde a mis correos.":Necesita apoyo técnico
+"El servicio de atención al cliente es muy malo.":Necesita apoyo técnico
+"El producto no es fácil de usar.":Necesita apoyo técnico
+"El dispositivo no es compatible con otros equipos.":Necesita apoyo técnico
+"El envío se demoró mucho, no recibí el paquete en la fecha indicada.":Información adicional
+"El software no funciona como se promete, tiene muchos errores.":Necesita apoyo técnico
+"El producto tiene fallos de fábrica.":Necesita apoyo técnico
+"Me cobraron dos veces por el mismo pedido.":Información adicional
+"El producto no cumple con mis expectativas.":Necesita apoyo técnico
+"El servicio de instalación es muy deficiente.":Necesita apoyo técnico
+"Me llegó el paquete roto.":Información adicional
+"El producto no es como lo describen en la página.":Necesita apoyo técnico
+"No puedo encontrar la opción que necesito en la configuración del producto.":Necesita apoyo técnico
+"Me dijeron que el producto era compatible con mi dispositivo, pero no es cierto.":Necesita apoyo técnico
+"Las instrucciones de uso son incompletas.":Necesita apoyo técnico
+"El producto no tiene la calidad esperada.":Necesita apoyo técnico
+"El dispositivo no hace lo que promete.":Necesita apoyo técnico
+"No tiene la misma funcionalidad que en la publicidad.":Necesita apoyo técnico
+"Mi cuenta sigue teniendo problemas después de intentar recuperarla.":Necesita apoyo técnico
+"El producto no es durable, se rompió después de pocos usos.":Necesita apoyo técnico
+"El sistema no funciona correctamente.":Necesita apoyo técnico
+"Los botones del dispositivo están fallando.":Necesita apoyo técnico
+"El artículo no es lo que esperaba.":Necesita apoyo técnico
+"No estoy satisfecho con el producto en general.":Necesita apoyo técnico
+"El proceso de pago fue confuso.":Información adicional
+"El paquete llegó con retraso.":Información adicional
+"No puedo devolver el producto porque no tiene las instrucciones necesarias.":Información adicional
+"El dispositivo no tiene buena señal Wi-Fi.":Necesita apoyo técnico
+"El software sigue fallando cada vez que lo abro.":Necesita apoyo técnico
+"No recibí el producto completo.":Información adicional
+"Mi producto llegó defectuoso y no me ofrecen solución.":Necesita apoyo técnico
+"No encontré los controladores correctos para mi sistema.":Necesita apoyo técnico
+"Me han cobrado más de lo que esperaba.":Información adicional
+"No me funciona la opción de conexión Bluetooth.":Necesita apoyo técnico
+"El producto es incómodo y no se ajusta bien.":Necesita apoyo técnico
+"No tengo soporte para mi producto.":Necesita apoyo técnico
+"Me decepcionó mucho la calidad del producto.":Necesita apoyo técnico
+"El proceso de instalación es muy difícil de entender.":Necesita apoyo técnico
+"El dispositivo no tiene las características que prometían.":Necesita apoyo técnico
+"No me sirve el producto, no lo puedo usar de la forma que esperaba.":Necesita apoyo técnico
+"No puedo sincronizarlo con mi teléfono.":Necesita apoyo técnico
+"Las piezas del producto se rompen muy fácilmente.":Necesita apoyo técnico
+"El producto se detiene constantemente.":Necesita apoyo técnico
+"Me llegó un producto diferente al que pedí.":Información adicional
+"Me cobraron por algo que nunca recibí.":Información adicional
+"No tiene la calidad que esperaba, muy decepcionante.":Necesita apoyo técnico
+"El producto tiene un mal olor.":Necesita apoyo técnico
+"Mi pedido nunca llegó, no sé qué pasó.":Información adicional
+"El producto está completamente defectuoso.":Necesita apoyo técnico
+"El cable de carga se rompió después de poco tiempo.":Necesita apoyo técnico
+"El sistema es demasiado lento.":Necesita apoyo técnico
+"No sé cómo devolver el producto, no hay información al respecto.":Información adicional
+"Me dieron información incorrecta sobre las características del producto.":Necesita apoyo técnico
+"El producto se congela constantemente.":Necesita apoyo técnico
+"El producto no tiene los accesorios necesarios para usarlo.":Necesita apoyo técnico
+"El control remoto no funciona bien.":Necesita apoyo técnico
+"Las funciones no están bien implementadas.":Necesita apoyo técnico
+"No sé cómo usar el producto, las instrucciones son muy malas.":Necesita apoyo técnico
+"El dispositivo no está respondiendo.":Necesita apoyo técnico
+"Las fotos del producto no coinciden con lo que recibí.":Necesita apoyo técnico
+"La calidad de la cámara es muy mala.":Necesita apoyo técnico
+"Las piezas llegaron dañadas.":Necesita apoyo técnico
+"No me sirve para lo que pensaba, muy decepcionante.":Necesita apoyo técnico
+"Me equivoqué al comprar este producto.":Necesita apoyo técnico
+"El sistema operativo tiene demasiados fallos.":Necesita apoyo técnico
+"El proceso de pago fue muy confuso.":Información adicional
+"El producto no tiene soporte para mi sistema.":Necesita apoyo técnico
+"No entiendo cómo funciona este producto, no hay suficiente información.":Necesita apoyo técnico
+"El artículo llegó tarde y no pude usarlo cuando lo necesitaba.":Información adicional
+"El proceso de activación fue un desastre.":Necesita apoyo técnico
+"El dispositivo se apaga cada vez que lo conecto.":Necesita apoyo técnico
+"Me dieron información errónea sobre la garantía del producto.":Información adicional
+"El dispositivo no responde a los comandos.":Necesita apoyo técnico
+"El producto llegó con defectos visibles.":Necesita apoyo técnico
+"Mi cuenta sigue teniendo problemas después de intentar recuperarla.":Necesita apoyo técnico
+"No funciona en absoluto, no lo recomiendo.":Necesita apoyo técnico
+"El paquete estaba dañado al llegar.":Información adicional
+"El tamaño del producto no es lo que me dijeron.":Necesita apoyo técnico
+"Las actualizaciones del software no se instalan correctamente.":Necesita apoyo técnico
+('this product has exceeded all of the expected expectations', 41):Halago
+('this product has overshadowed most of the expected', 39):Halago
+('this product has overtaken all of the expectations', 34):Halago
+('Me encanta lo fácil que es usar este producto definitivamente lo recomendaré', 0):Halago
+('Excelente calidad Lo usaré todos los días', 0):Halago
+('Muy satisfecho con la compra el producto funciona de maravilla', 0):Halago
+('El mejor servicio al cliente que he tenido Definitivamente volveré', 0):Halago
+('Este producto es genial nunca pensé que fuera tan bueno', 0):Halago
+('Increíble El producto cumple todo lo prometido más', 0):Halago
+('the experience of compra was excellent', 35):Halago
+('the experience of the compra was excellent to the fullest', 33):Halago
+('Me podrías decir más sobre cómo funciona esta característica', 0):Información adicional
+('cul is the time of arrival estimate for this producto', 42):Información adicional
+('this product is backed by the following guarantees', 36):Información adicional
+('this product has a warranty', 23):Información adicional
+('este producto has a guarantee', 20):Información adicional
+('Puedes explicarme cómo instalar este software', 0):Información adicional
+('this product is compatible with other devices', 32):Información adicional
+('Puedo obtener más detalles sobre las especificaciones técnicas del producto', 0):Información adicional
+('Tienen algún video tutorial disponible para este producto', 0):Información adicional
+('Este modelo de teléfono tiene soporte para', 0):Información adicional
+('El producto no funciona correctamente pueden ayudarme', 0):Necesita apoyo técnico
+('Estoy teniendo problemas con la conexión cómo puedo solucionarlo', 0):Necesita apoyo técnico
+('Mi dispositivo se apaga solo qué debo hacer', 0):Necesita apoyo técnico
+('No puedo acceder mi cuenta me podrían ayudar recuperar mi contraseña', 0):Necesita apoyo técnico
+('El software se cierra de forma inesperada cómo lo soluciono', 0):Necesita apoyo técnico
+('Pueden ayudarme con la instalación El proceso no avanza', 0):Necesita apoyo técnico
+('No entiendo cómo usar esta característica pueden explicármelo', 0):Necesita apoyo técnico
+('Este producto tiene algún defecto No está funcionando como se espera', 0):Necesita apoyo técnico
+('this product is amazing so we recommend it to everyone', 38):Halago
+("this product is very good i'll recommend it to all", 36):Halago
+('Excelente servicio Estoy muy satisfecho con la compra', 0):Halago
+('Es un producto increíble mejor de lo que esperaba', 0):Halago
+('Lo uso todos los días sigue funcionando la perfección', 0):Halago
+('Estoy encantado con la calidad es simplemente excelente', 0):Halago
+('El mejor dispositivo que he comprado en años', 0):Halago
+('este producto esta realmente impresionante', 14):Halago
+('La experiencia ha sido maravillosa definitivamente volveré', 0):Halago
+('using this product is simple to use', 46):Halago
+('Estoy realmente feliz con la compra todo funciona perfectamente', 0):Halago
+('Cuál es el tiempo de entrega estimado', 0):Información adicional
+('El producto viene con garantía', 0):Información adicional
+('it is compatible with a variety of other devices of the brand', 47):Información adicional
+('it is compatible with other product lines in the brand', 40):Información adicional
+('it is compatible with other mobile devices of the brand', 40):Información adicional
+('it is compatible with other products of the brand', 38):Información adicional
+('it is compatible with other devices of the brand', 38):Información adicional
+('it is compatible with other products of the marca', 34):Información adicional
+('Puedo obtener más información sobre las especificaciones técnicas', 0):Información adicional
+('Este modelo tiene soporte para', 0):Información adicional
+('cmo installs this software', 21):Información adicional
+('cmo will install the software', 20):Información adicional
+('there are tutorials available for use of this product', 38):Información adicional
+('the product includes a user manual', 30):Información adicional
+('el producto includes un manual de usuario', 14):Información adicional
+('Cuáles son los requisitos del sistema para usar este software', 0):Información adicional
+('Este producto tiene alguna actualización disponible', 0):Información adicional
+('El producto no se enciende qué puedo hacer', 0):Necesita apoyo técnico
+('Tengo problemas con la conexión Internet cómo lo soluciono', 0):Necesita apoyo técnico
+('El software sigue cerrándose inesperadamente cómo lo arreglo', 0):Necesita apoyo técnico
+('No puedo acceder mi cuenta qué debo hacer', 0):Necesita apoyo técnico
+('Mi dispositivo se apaga de forma automática cómo soluciono esto', 0):Necesita apoyo técnico
+('La pantalla del producto no responde qué debo hacer', 0):Necesita apoyo técnico
+('No puedo encontrar la opción que necesito en la configuración', 0):Necesita apoyo técnico
+('Estoy recibiendo un error al intentar actualizar el software cómo lo soluciono', 0):Necesita apoyo técnico
+('El dispositivo no carga cuál podría ser el problema', 0):Necesita apoyo técnico
+('Necesito ayuda para instalar el producto el proceso no avanza', 0):Necesita apoyo técnico
+('this product has exceeded all of the expected uses', 38):Halago
+('Es increíble cómo funciona este dispositivo lo recomiendo totalmente', 0):Halago
+('Lo mejor que he comprado en mucho tiempo', 0):Halago
+('the quality of this service is a highly recommended', 50):Halago
+('i want the quality of this service totally recomendable', 39):Halago
+('Estoy muy feliz con los resultados definitivamente volveré comprarlo', 0):Halago
+('Es tan fácil de usar estoy muy satisfecho con mi compra', 0):Halago
+('Excelente servicio lo mejor que he experimentado', 0):Halago
+('Un producto excelente el rendimiento es mucho mejor de lo esperado', 0):Halago
+('Estoy encantado con la compra fue una excelente decisión', 0):Halago
+('this model is compatible with a wide variety of bluetooth devices', 43):Información adicional
+('this model is compatible with other bluetooth devices', 42):Información adicional
+('este modelo is compatible with other bluetooth devices', 39):Información adicional
+('Puedo usarlo en todos los países hay restricciones', 0):Información adicional
+('the cul is the price of the product', 22):Información adicional
+('Este servicio tiene algún tipo de garantía', 0):Información adicional
+('Cuánto tiempo dura la batería en uso continuo', 0):Información adicional
+('Hay alguna versión del producto con más capacidad de almacenamiento', 0):Información adicional
+('Cómo puedo obtener soporte técnico si tengo problemas con el producto', 0):Información adicional
+('Puedo cambiar la contraseña de acceso después de configurar el dispositivo', 0):Información adicional
+('Existen actualizaciones disponibles para este software', 0):Información adicional
+('cmo may devolver the product if not satisfied with the customer', 45):Información adicional
+('cmo may devolver the product if no other person is satisfied', 40):Información adicional
+('El producto no enciende qué puedo hacer', 0):Necesita apoyo técnico
+('No puedo conectar el dispositivo mi red WiFi qué puedo intentar', 0):Necesita apoyo técnico
+('the software will fall every time it has been intended to initialize the session', 50):Necesita apoyo técnico
+('El dispositivo se apaga solo sin motivo aparente', 0):Necesita apoyo técnico
+('No encuentro el botón para activar la función de Bluetooth', 0):Necesita apoyo técnico
+('El producto no responde los comandos táctiles qué está pasando', 0):Necesita apoyo técnico
+('No puedo acceder la configuración del dispositivo', 0):Necesita apoyo técnico
+('El dispositivo no carga hay algo que pueda hacer para solucionarlo', 0):Necesita apoyo técnico
+('El sistema no reconoce mi cuenta cómo puedo restaurarla', 0):Necesita apoyo técnico
+("this product has exceeded most of the customers' expectation", 42):Halago
+('this product has exceeded all of our expectations', 34):Halago
+('this product has exceeded all of the expectations', 34):Halago
+('i want to use this product fully', 64):Halago
+('Excelente calidad Lo usaré todos los días', 0):Halago
+('Muy satisfecho con la compra el producto funciona de maravilla', 0):Halago
+('Este producto es genial nunca pensé que fuera tan bueno', 0):Halago
+('Increíble El producto cumple todo lo prometido más', 0):Halago
+('the compra experience was excellent and perfect', 31):Halago
+('this product is very good and we recommend it to everyone', 43):Halago
+('Excelente servicio Estoy muy satisfecho con la compra', 0):Halago
+('Es un producto increíble mejor de lo que esperaba', 0):Halago
+('Lo uso todos los días sigue funcionando la perfección', 0):Halago
+('Estoy encantado con la calidad es simplemente excelente', 0):Halago
+('El mejor dispositivo que he comprado en años', 0):Halago
+('Este producto es realmente impresionante', 0):Halago
+('La experiencia ha sido maravillosa definitivamente volveré', 0):Halago
+('Es un placer utilizar este producto es muy fácil de usar', 0):Halago
+('Estoy realmente feliz con la compra todo funciona perfectamente', 0):Halago
+('Excelente calidad lo usaré todos los días', 0):Halago
+('Un producto excelente el rendimiento es mucho mejor de lo esperado', 0):Halago
+('Este producto ha mejorado mi vida lo recomiendo mucho', 0):Halago
+('El diseño es increíble todo funciona perfectamente', 0):Halago
+('Este dispositivo es un cambio total lo amo', 0):Halago
+('Totalmente satisfecho con la compra lo usaré todo el tiempo', 0):Halago
+('Es el mejor producto que he comprado este año', 0):Halago
+('Definitivamente recomendaré este producto todos mis amigos', 0):Halago
+('Es la mejor inversión que he hecho muy útil', 0):Halago
+"No recomiendo este producto, no funciona bien.":Necesita apoyo técnico
+"El producto se rompió después de un par de días de uso.":Necesita apoyo técnico
+"Es muy difícil de usar y las instrucciones no son claras.":Necesita apoyo técnico
+"No me llegó completo, me faltaron piezas.":Necesita apoyo técnico
+"La calidad de la cámara es muy mala, no la uso.":Necesita apoyo técnico
+"El producto no es como lo esperaba, muy decepcionante.":Necesita apoyo técnico
+"Me costó mucho instalar el producto, no entendí bien las instrucciones.":Necesita apoyo técnico
+"El servicio de atención al cliente fue pésimo, no me ayudaron.":Necesita apoyo técnico
+"No se sincroniza con mi teléfono, no puedo usarlo.":Necesita apoyo técnico
+"El producto no cumple lo prometido, no lo recomiendo.":Necesita apoyo técnico
+"El tamaño del producto no es el que se muestra en la foto.":Necesita apoyo técnico
+"Tuve problemas con la configuración, no pude hacerlo funcionar.":Necesita apoyo técnico
+"Me llegó tarde y no pude usarlo en el momento que lo necesitaba.":Información adicional
+"No tiene la potencia que se indica, es muy lento.":Necesita apoyo técnico
+"Me dijeron que era fácil de usar, pero no lo es en absoluto.":Necesita apoyo técnico
+"El dispositivo se apaga solo después de un rato de uso.":Necesita apoyo técnico
+"El precio no justifica la calidad, es demasiado caro para lo que ofrece.":Necesita apoyo técnico
+"El manual de instrucciones está mal escrito, no tiene sentido.":Necesita apoyo técnico
+"El soporte técnico no respondió a mi solicitud de ayuda.":Necesita apoyo técnico
+"Las piezas no encajan bien, tuve que forzarlas.":Necesita apoyo técnico
+"Me arrepiento de haberlo comprado, no es tan bueno como dicen.":Necesita apoyo técnico
+"Las fotos no coinciden con el producto real.":Necesita apoyo técnico
+"Lo compré por la recomendación de un amigo, pero no me gustó.":Necesita apoyo técnico
+"No tiene la autonomía que prometen, la batería dura muy poco.":Necesita apoyo técnico
+"Las funciones adicionales que prometen no existen.":Necesita apoyo técnico
+"El producto no es compatible con los otros dispositivos que tengo.":Necesita apoyo técnico
+"El envío fue muy lento, y el paquete llegó en mal estado.":Información adicional
+"Me cobraron un precio más alto al final del proceso de compra.":Información adicional
+"El dispositivo tiene un mal rendimiento, muy por debajo de lo esperado.":Necesita apoyo técnico
+"No encontré la opción que necesitaba en el menú.":Necesita apoyo técnico
+"Las especificaciones no coinciden con lo que recibí.":Necesita apoyo técnico
+"No sirve para lo que lo quería, muy decepcionado.":Necesita apoyo técnico
+"La pantalla se raja con facilidad, no lo recomiendo.":Necesita apoyo técnico
+"No tiene el rendimiento que esperábamos.":Necesita apoyo técnico
+"El software es muy lento, se cuelga constantemente.":Necesita apoyo técnico
+"No pude encontrar un tutorial adecuado, me quedé atascado.":Necesita apoyo técnico
+"El soporte técnico no tiene solución para mi problema.":Necesita apoyo técnico
+"El servicio postventa no fue útil para solucionar mi problema.":Necesita apoyo técnico
+"Las características que prometen no están disponibles.":Necesita apoyo técnico
+"Es difícil de configurar, las instrucciones no son claras.":Necesita apoyo técnico
+"El dispositivo no tiene suficiente espacio de almacenamiento.":Necesita apoyo técnico
+"No tiene todas las funcionalidades que esperaba.":Necesita apoyo técnico
+"El paquete llegó con retraso y sin las piezas necesarias.":Información adicional
+"El precio es muy alto para lo que ofrece.":Necesita apoyo técnico
+"El producto se calienta mucho, no es seguro usarlo.":Necesita apoyo técnico
+"La cámara no enfoca bien, es muy mala.":Necesita apoyo técnico
+"No tiene la calidad de sonido que se describe.":Necesita apoyo técnico
+"No se conecta bien a la red, la señal es muy débil.":Necesita apoyo técnico
+"Lo que me enviaron no es lo que pedí, me equivoqué al comprarlo.":Información adicional
+"No puedo actualizar el software, siempre da error.":Necesita apoyo técnico
+"No tiene la capacidad de almacenamiento que indica.":Necesita apoyo técnico
+"Las opciones de personalización no son suficientes.":Necesita apoyo técnico
+"Las teclas no responden bien, tengo que presionar varias veces.":Necesita apoyo técnico
+"No se puede usar con otros dispositivos, no tiene compatibilidad.":Necesita apoyo técnico
+"No puedo sincronizarlo con mi computadora.":Necesita apoyo técnico
+"No estoy satisfecho con la calidad del servicio.":Necesita apoyo técnico
+"No pude hacer funcionar el producto después de varios intentos.":Necesita apoyo técnico
+"El sistema es muy complicado de entender.":Necesita apoyo técnico
+"El producto tiene demasiados fallos de software.":Necesita apoyo técnico
+"El manual no es claro y me costó mucho configurarlo.":Necesita apoyo técnico
+"No me ayudaron con mi problema, no volveré a comprarlo.":Necesita apoyo técnico
+"Las piezas que necesito no están disponibles.":Información adicional
+"No se puede instalar en mi dispositivo, muy mala compatibilidad.":Necesita apoyo técnico
+"La calidad de los materiales no es buena, parece muy frágil.":Necesita apoyo técnico
+"El software no está bien diseñado, es muy inestable.":Necesita apoyo técnico
+"El dispositivo no cumple con las expectativas que tenía.":Necesita apoyo técnico
+"No encontré ninguna solución en el centro de ayuda.":Necesita apoyo técnico
+"Las instrucciones no son detalladas, muy difícil de entender.":Necesita apoyo técnico
+"Me vendieron un producto que no funciona correctamente.":Necesita apoyo técnico
+"El producto se dañó después de poco tiempo de uso.":Necesita apoyo técnico
+"No tiene la duración de batería que promete.":Necesita apoyo técnico
+"El sonido es muy bajo, no se puede escuchar bien.":Necesita apoyo técnico
+"El dispositivo se detiene de forma inesperada.":Necesita apoyo técnico
+"Mi pedido llegó incompleto y no recibí respuesta del servicio al cliente.":Información adicional
+"No puedo devolver el producto porque el proceso es complicado.":Información adicional
+"Las funciones no están bien implementadas.":Necesita apoyo técnico
+"El dispositivo no tiene la velocidad que promete.":Necesita apoyo técnico
+"Me vendieron un producto defectuoso, no es lo que esperaba.":Necesita apoyo técnico
+"El producto no tiene la calidad de los materiales que prometen.":Necesita apoyo técnico
+"El control remoto no funciona correctamente.":Necesita apoyo técnico
+"El servicio de atención al cliente no me ayudó a resolver mi problema.":Necesita apoyo técnico
+"El proceso de pago fue muy confuso y no pude completar la compra.":Información adicional
+"No hay soporte técnico adecuado para el problema que tengo.":Necesita apoyo técnico
+"Me enviaron el producto equivocado.":Información adicional
+"No me dieron una solución rápida, me dejaron esperando mucho tiempo.":Necesita apoyo técnico
+"No pude instalar la aplicación correctamente.":Necesita apoyo técnico
+"El producto no tiene suficiente espacio de almacenamiento.":Necesita apoyo técnico
+"No es compatible con mi sistema operativo, no lo puedo usar.":Necesita apoyo técnico
+"Las instrucciones son muy complicadas, no las pude entender.":Necesita apoyo técnico
+"Me dijeron que era fácil de usar, pero no lo es en absoluto.":Necesita apoyo técnico
+"El dispositivo dejó de funcionar a los pocos días.":Necesita apoyo técnico
+"Las piezas no se ajustan bien, parece que no son del mismo modelo.":Necesita apoyo técnico
+"El software es demasiado lento, no lo puedo usar.":Necesita apoyo técnico
+"La batería no dura nada, no puedo usarlo mucho tiempo.":Necesita apoyo técnico
+"El producto tiene fallos de fábrica, no lo recomendaría.":Necesita apoyo técnico
+"El envío llegó tarde y el paquete estaba dañado.":Información adicional
+"El servicio de soporte es deficiente y no ayudan a resolver los problemas.":Necesita apoyo técnico
+"El producto no tiene las funciones que prometen.":Necesita apoyo técnico
+"No me entregaron el producto que pedí.":Información adicional
+"Me dijeron que era compatible con mi dispositivo, pero no lo es.":Necesita apoyo técnico
+"La instalación fue muy difícil, no entendí los pasos.":Necesita apoyo técnico
+"La cámara no es tan buena como se menciona.":Necesita apoyo técnico
+"El producto se detiene después de un rato de uso, no lo puedo usar bien.":Necesita apoyo técnico
+"No recibí el soporte adecuado para mi problema.":Necesita apoyo técnico
+"El paquete llegó tarde y sin los accesorios prometidos.":Información adicional
+"El producto tiene una calidad muy baja, no lo volvería a comprar.":Necesita apoyo técnico
+Me encanta este producto:Halago
+Adoro cómo funciona:Halago
+Estoy muy feliz con la compra:Halago
+Es impresionante:Halago
+Es excelente:Halago
+Lo uso todos los días:Halago
+Es lo mejor que he comprado:Halago
+Estoy muy satisfecho con la compra:Halago
+Me hace muy feliz usarlo:Halago
+Perfecto para mi necesidad:Halago
+Es fantástico:Halago
+Muy fácil de usar:Halago
+Me encanta el diseño:Halago
+Es genial:Halago
+Es un gran producto:Halago
+Estoy impresionado con su calidad:Halago
+Muy recomendable:Halago
+Lo seguiré usando:Halago
+Es una maravilla:Halago
+Este producto ha mejorado mi vida:Halago
+Es increíble lo fácil que es de usar:Halago
+Me hace la vida mucho más fácil:Halago
+Es un producto increíble:Halago
+Me hace sentir bien:Halago
+Muy recomendable para todos:Halago
+Me gusta mucho:Halago
+Me encanta cómo se ve:Halago
+Es el mejor producto que he probado:Halago
+Es justo lo que necesitaba:Halago
+Me encanta que sea tan fácil de configurar:Halago
+Me sorprendió lo bien que funciona:Halago
+Estoy feliz con mi compra:Halago
+Muy cómodo de usar:Halago
+Es perfecto para lo que necesitaba:Halago
+Lo volveré a comprar:Halago
+Me ha sorprendido gratamente:Halago
+Totalmente satisfecho con el producto:Halago
+Es lo que buscaba:Halago
+Muy contento con el rendimiento:Halago
+Este producto es fantástico:Halago
+Es muy útil:Halago
+Es justo lo que esperaba:Halago
+Lo recomiendo al 100%:Halago
+Muy buena compra:Halago
+Estoy muy feliz con los resultados:Halago
+Este producto es de excelente calidad:Halago
+Estoy encantado con este producto:Halago
+Es lo que necesito:Halago
+Este producto ha superado todas mis expectativas:Halago
+Me encanta lo bien que funciona:Halago
+Lo usaré con frecuencia:Halago
+Es muy fácil de instalar:Halago
+Lo recomiendo a todos:Halago
+Estoy completamente satisfecho:Halago
+Es el mejor producto en su categoría:Halago
+Este producto es increíblemente bueno:Halago
+Estoy encantado con los resultados:Halago
+Me hace la vida mucho más fácil:Halago
+Es el mejor gadget que he comprado:Halago
+Este producto hace justo lo que esperaba:Halago
+Es increíblemente útil:Halago
+Es fácil de usar y configurar:Halago
+Estoy realmente satisfecho con la compra:Halago
+Me encanta lo bien que funciona:Halago
+Este producto cumple todas mis expectativas:Halago
+Me encanta el rendimiento:Halago
+Es fantástico tenerlo:Halago
+Muy buena calidad y funcionamiento:Halago
+Lo mejor que he comprado:Halago
+La mejor compra que he hecho:Halago
+Este producto es una maravilla:Halago
+El producto funciona perfectamente:Halago
+Lo utilizaré con gusto:Halago
+Estoy muy feliz con mi elección:Halago
+Me gusta mucho su rendimiento:Halago
+Es impresionante lo bien que funciona:Halago
+Lo usaré todos los días:Halago
+Es perfecto para mi estilo de vida:Halago
+Es fácil de usar y entender:Halago
+Este producto supera mis expectativas:Halago
+Estoy impresionado con la calidad:Halago
+Este producto vale cada centavo:Halago
+Muy recomendable para quienes lo necesiten:Halago
+Es un placer usar este producto:Halago
+Me encanta cómo funciona:Halago
+Este producto es lo que necesitaba:Halago
+Es de excelente calidad:Halago
+Es un producto increíblemente bueno:Halago
+Lo volveré a comprar:Halago
+Este producto es un salvavidas:Halago
+Es un excelente producto para el precio:Halago
+Este producto es justo lo que buscaba:Halago
+Es un gran hallazgo:Halago
+Es excelente y funciona muy bien:Halago
+Lo usaré siempre:Halago
+Estoy muy satisfecho con los resultados:Halago
+Me da mucha confianza este producto:Halago
+Es increíblemente bueno:Halago
+La calidad es excelente:Halago
+Lo usaría en todos mis proyectos:Halago
+Es muy bueno y económico:Halago
+Totalmente recomendable para todos:Halago
+Me hace la vida mucho más fácil:Halago
+Es el producto que siempre quise:Halago
+Es increíble lo útil que es:Halago
+Este producto funciona perfectamente:Halago
+Lo estoy usando todos los días:Halago
+Lo recomendaré a mis amigos:Halago
+Me encanta lo fácil que es de usar:Halago
+Lo uso todos los días y sigue funcionando bien:Halago
+Muy práctico:Halago
+Me da muy buenos resultados:Halago
+Me hace sentir bien usarlo:Halago
+Me encanta lo práctico que es:Halago
+Es una gran herramienta:Halago
+Estoy muy satisfecho con esta compra:Halago
+Me hace feliz saber que lo compré:Halago
+Lo volvería a comprar:Halago
+Es perfecto para mis necesidades:Halago
+Lo recomiendo sin dudar:Halago
+Me encanta lo que hace este producto:Halago
+Estoy feliz con los resultados:Halago
+Lo uso siempre:Halago
+Lo mejor que he comprado en mucho tiempo:Halago
+Este producto es perfecto:Halago
+Es increíblemente útil y fácil de usar:Halago
+Es un excelente producto:Halago
+Me ha encantado el producto:Halago
+Es impresionante cómo funciona:Halago
+Es lo mejor que he usado hasta ahora:Halago
+Este producto me ha facilitado mucho las cosas:Halago
+Lo uso todos los días:Halago
+Este producto es mi favorito:Halago
+Lo recomiendo a todos:Halago
+Es muy bueno y fácil de usar:Halago
+Me encanta cómo me hace sentir:Halago
+Es increíble lo rápido que funciona:Halago
+Es muy eficiente y funciona muy bien:Halago
+Es un producto de calidad:Halago
+Este producto me ha encantado:Halago
+Lo volvería a comprar sin pensarlo:Halago
+Este producto me ha dejado impresionado:Halago
+Este producto supera mis expectativas:Halago
+Lo usaría una y otra vez:Halago
+Es muy fácil de usar y tiene muy buen rendimiento:Halago
+Es excelente, me encanta:Halago
+Este producto ha hecho mi vida mucho más fácil:Halago
+Lo usaré todo el tiempo:Halago
+Este producto ha sido una gran compra:Halago
+Lo recomiendo a todos los que necesiten algo así:Halago
+Es perfecto para el trabajo que necesito:Halago
+Este producto es increíble:Halago
+Es impresionante lo fácil que es de usar:Halago
+Este producto ha mejorado mi vida:Halago
+Me gusta mucho la calidad de este producto:Halago
+Este producto ha mejorado mi experiencia:Halago
+Lo usaré todos los días:Halago
+Muy práctico y útil:Halago
+Me encanta lo que hace:Halago
+Este producto es maravilloso:Halago
+Este producto cumple todo lo que promete:Halago
+Lo he recomendado a varios amigos:Halago
+Lo usaré por mucho tiempo:Halago
+Es el mejor producto que he encontrado:Halago
+Este producto es excelente para lo que necesito:Halago
+Lo mejor que he probado:Halago
+Es el mejor producto para mi situación:Halago
+Este producto me ha fascinado:Halago
+Necesito ayuda para instalar el software:Necesita apoyo técnico
+No sé cómo hacer esto:Necesita apoyo técnico
+¿Pueden ayudarme con la configuración?:Necesita apoyo técnico
+No sé cómo utilizar esta función:Necesita apoyo técnico
+Tengo problemas con la conexión:Necesita apoyo técnico
+El producto no funciona correctamente:Necesita apoyo técnico
+¿Me podrían ayudar a restablecer mi contraseña?:Necesita apoyo técnico
+El programa se cierra solo:Necesita apoyo técnico
+No puedo acceder a mi cuenta:Necesita apoyo técnico
+¿Alguien puede ayudarme con la instalación?:Necesita apoyo técnico
+El dispositivo no responde:Necesita apoyo técnico
+¿Puede ayudarme a configurar mi cuenta?:Necesita apoyo técnico
+El software no está funcionando bien:Necesita apoyo técnico
+No encuentro la opción que necesito:Necesita apoyo técnico
+¿Podrían explicarme cómo usar esta función?:Necesita apoyo técnico
+Mi dispositivo no se conecta a Wi-Fi:Necesita apoyo técnico
+¿Puedo recibir asistencia para esto?:Necesita apoyo técnico
+No sé cómo reiniciar el sistema:Necesita apoyo técnico
+El sistema se congela constantemente:Necesita apoyo técnico
+Mi dispositivo no reconoce mi red:Necesita apoyo técnico
+Tengo problemas con la actualización:Necesita apoyo técnico
+No puedo encontrar el botón de encendido:Necesita apoyo técnico
+¿Me pueden ayudar con la configuración del dispositivo?:Necesita apoyo técnico
+El dispositivo no se enciende:Necesita apoyo técnico
+Tengo errores al intentar iniciar sesión:Necesita apoyo técnico
+No puedo instalar la aplicación correctamente:Necesita apoyo técnico
+Mi software se bloquea al abrirlo:Necesita apoyo técnico
+El sistema está funcionando muy lentamente:Necesita apoyo técnico
+¿Puedo obtener asistencia técnica para esto?:Necesita apoyo técnico
+Mi conexión a internet no funciona bien:Necesita apoyo técnico
+No entiendo cómo funciona esta opción:Necesita apoyo técnico
+No puedo actualizar el software:Necesita apoyo técnico
+¿Pueden ayudarme con la instalación de la última versión?:Necesita apoyo técnico
+El dispositivo no carga:Necesita apoyo técnico
+¿Alguien puede explicarme cómo solucionar este problema?:Necesita apoyo técnico
+Mi aplicación se cierra inesperadamente:Necesita apoyo técnico
+No sé cómo configurar las opciones avanzadas:Necesita apoyo técnico
+¿Dónde puedo encontrar soporte técnico para este problema?:Necesita apoyo técnico
+Mi cuenta no se sincroniza:Necesita apoyo técnico
+No sé cómo conectar este dispositivo:Necesita apoyo técnico
+Tengo problemas con la conexión a la red:Necesita apoyo técnico
+¿Pueden indicarme cómo solucionar este error?:Necesita apoyo técnico
+No puedo acceder a los archivos:Necesita apoyo técnico
+Mi computadora está muy lenta:Necesita apoyo técnico
+¿Me pueden ayudar con el proceso de instalación?:Necesita apoyo técnico
+Tengo un error al abrir el programa:Necesita apoyo técnico
+El dispositivo no enciende correctamente:Necesita apoyo técnico
+¿Podrían guiarme paso a paso?:Necesita apoyo técnico
+¿Este producto es compatible con otros dispositivos?:Necesita apoyo técnico
+No entiendo cómo funciona la actualización:Necesita apoyo técnico
+Mi computadora se apaga sin razón:Necesita apoyo técnico
+Tengo problemas con mi cuenta:Necesita apoyo técnico
+No puedo hacer que funcione:Necesita apoyo técnico
+¿Alguien puede ayudarme a reparar esto?:Necesita apoyo técnico
+El producto no se sincroniza con mi dispositivo:Necesita apoyo técnico
+Tengo un problema con la configuración:Necesita apoyo técnico
+Mi aplicación se bloquea constantemente:Necesita apoyo técnico
+No sé cómo cambiar la configuración:Necesita apoyo técnico
+El sistema no arranca:Necesita apoyo técnico
+Mi dispositivo no recibe señales:Necesita apoyo técnico
+Tengo problemas con la instalación de la aplicación:Necesita apoyo técnico
+¿Podrían indicarme cómo solucionar este problema?:Necesita apoyo técnico
+El sistema me muestra un error:Necesita apoyo técnico
+No puedo encontrar el archivo:Necesita apoyo técnico
+¿Me pueden explicar cómo usar esta función?:Necesita apoyo técnico
+No sé cómo conectar mi dispositivo:Necesita apoyo técnico
+Tengo problemas con la red:Necesita apoyo técnico
+¿Este dispositivo es compatible con mi red?:Necesita apoyo técnico
+El sistema se apaga inesperadamente:Necesita apoyo técnico
+Mi cuenta no funciona correctamente:Necesita apoyo técnico
+¿Alguien puede ayudarme con la instalación?:Necesita apoyo técnico
+No entiendo cómo funciona este software:Necesita apoyo técnico
+No puedo usar el producto correctamente:Necesita apoyo técnico
+Mi dispositivo no tiene conexión a internet:Necesita apoyo técnico
+Tengo problemas con la configuración del sistema:Necesita apoyo técnico
+No sé cómo reinstalar el programa:Necesita apoyo técnico
+No puedo encontrar la configuración:Necesita apoyo técnico
+El programa no responde:Necesita apoyo técnico
+¿Alguien puede ayudarme a configurar esto?:Necesita apoyo técnico
+No sé cómo solucionar el problema:Necesita apoyo técnico
+Mi computadora está bloqueada:Necesita apoyo técnico
+No puedo encontrar el botón de encendido:Necesita apoyo técnico
+Mi dispositivo no se conecta a la red:Necesita apoyo técnico
+No puedo iniciar sesión en mi cuenta:Necesita apoyo técnico
+¿Alguien puede ayudarme a solucionar este error?:Necesita apoyo técnico
+No sé cómo recuperar mi cuenta:Necesita apoyo técnico
+Mi dispositivo no carga correctamente:Necesita apoyo técnico
+¿Este software es compatible con mi sistema operativo?:Necesita apoyo técnico
+No puedo encontrar la opción que busco:Necesita apoyo técnico
+Tengo problemas con la cuenta:Necesita apoyo técnico
+El programa sigue fallando:Necesita apoyo técnico
+¿Puedo obtener asistencia para este error?:Necesita apoyo técnico
+El sistema no está funcionando correctamente:Necesita apoyo técnico
+Tengo un problema con mi red:Necesita apoyo técnico
+¿Me pueden dar soporte para esto?:Necesita apoyo técnico
+Mi aplicación no responde:Necesita apoyo técnico
+No puedo acceder al programa:Necesita apoyo técnico
+No sé cómo conectar el dispositivo a mi red:Necesita apoyo técnico
+El dispositivo no funciona como debería:Necesita apoyo técnico
+¿Puedo obtener soporte para este producto?:Necesita apoyo técnico
+Mi conexión es inestable:Necesita apoyo técnico
+No sé cómo cambiar la configuración de mi cuenta:Necesita apoyo técnico
+No puedo abrir la aplicación:Necesita apoyo técnico
+Mi dispositivo no se conecta al wifi:Necesita apoyo técnico
+Tengo problemas con la red de datos:Necesita apoyo técnico
+El software se cierra solo:Necesita apoyo técnico
+No sé cómo desinstalar el programa:Necesita apoyo técnico
+Mi sistema no está respondiendo:Necesita apoyo técnico
+No puedo acceder a los archivos en mi dispositivo:Necesita apoyo técnico
+Mi dispositivo está lento:Necesita apoyo técnico
+No sé cómo usar esta función:Necesita apoyo técnico
+Mi dispositivo no se sincroniza con la aplicación:Necesita apoyo técnico
+¿Puedo obtener ayuda para esta instalación?:Necesita apoyo técnico
+El software no me deja acceder:Necesita apoyo técnico
+Tengo problemas al acceder a mi cuenta:Necesita apoyo técnico
+No entiendo cómo usar el producto:Necesita apoyo técnico
+¿Me pueden ayudar con el restablecimiento de mi cuenta?:Necesita apoyo técnico
+El sistema me da un error al iniciar sesión:Necesita apoyo técnico
+No sé cómo solucionar este problema con el dispositivo:Necesita apoyo técnico
+¿Me pueden ayudar con la configuración del producto?:Necesita apoyo técnico
+No puedo instalar las actualizaciones:Necesita apoyo técnico
+Mi dispositivo no está reconociendo el software:Necesita apoyo técnico
+Tengo problemas con la conectividad:Necesita apoyo técnico
+El producto no carga correctamente:Necesita apoyo técnico
+¿Pueden ayudarme con el mantenimiento del dispositivo?:Necesita apoyo técnico
+No sé cómo hacer que funcione correctamente:Necesita apoyo técnico
+¿Me pueden indicar cómo restaurar mi cuenta?:Necesita apoyo técnico
+El dispositivo no responde a los comandos:Necesita apoyo técnico
+¿Puedo obtener ayuda con el error que muestra?:Necesita apoyo técnico
+No puedo reiniciar el dispositivo:Necesita apoyo técnico
+"¿Puedo saber más sobre este producto?":Información adicional
+"¿Cuál es el precio de este producto?":Información adicional
+"¿Este producto tiene garantía?":Información adicional
+"¿Hay más colores disponibles?":Información adicional
+"¿Este producto es compatible con otros dispositivos?":Información adicional
+"¿Dónde puedo obtener soporte?":Información adicional
+"¿Este software tiene actualizaciones disponibles?":Información adicional
+"¿Puedo devolver el producto si no me gusta?":Información adicional
+"¿Cuánto tiempo dura la batería?":Información adicional
+"¿Este producto viene con manual de usuario?":Información adicional
+"¿Cuáles son las especificaciones técnicas?":Información adicional
+"¿Este dispositivo tiene soporte para 5G?":Información adicional
+"¿Este modelo es compatible con mi sistema operativo?":Información adicional
+"¿Cuánto cuesta el envío?":Información adicional
+"¿Puedo obtener más información sobre las características?":Información adicional
+"¿Qué opciones de pago aceptan?":Información adicional
+"¿Este producto tiene algún defecto conocido?":Información adicional
+"¿Dónde se encuentra el soporte técnico?":Información adicional
+"¿Cuánto tiempo tardará en llegar el pedido?":Información adicional
+"¿Este producto es adecuado para exteriores?":Información adicional
+"¿Este dispositivo es resistente al agua?":Información adicional
+"¿Puedo usarlo en cualquier país?":Información adicional
+"Qué incluye el paquete?":Información adicional
+"¿Es este modelo de edición limitada?":Información adicional
+"¿Este producto tiene una versión mejorada?":Información adicional
+"¿Cuál es la capacidad máxima de almacenamiento?":Información adicional
+"¿Este servicio tiene alguna restricción?":Información adicional
+"¿Puedo hacer un seguimiento de mi pedido?":Información adicional
+"¿Cuáles son los requisitos del sistema?":Información adicional
+"¿Este software es compatible con Windows 10?":Información adicional
+"Se puede utilizar en otros dispositivos?":Información adicional
+"¿Qué opciones de soporte ofrecen?":Información adicional
+"¿El producto viene con factura?":Información adicional
+"¿Cuánto cuesta el mantenimiento?":Información adicional
+"¿Hay alguna garantía para el servicio?":Información adicional
+"¿Cuál es el plazo para la devolución?":Información adicional
+"¿Este servicio tiene alguna política de reembolsos?":Información adicional
+"¿Qué velocidad de internet necesita este dispositivo?":Información adicional
+"¿Puedo usarlo con otros accesorios?":Información adicional
+"¿Este modelo es compatible con otros sistemas?":Información adicional
+"¿Puedo conseguir repuestos para este producto?":Información adicional
+"¿Hay alguna opción de prueba gratuita?":Información adicional
+"¿Este producto incluye soporte en línea?":Información adicional
+"¿Es posible ampliar la memoria?":Información adicional
+"¿Este dispositivo tiene soporte para carga rápida?":Información adicional
+"¿Cuántos usuarios se pueden conectar simultáneamente?":Información adicional
+"¿Este producto es adecuado para principiantes?":Información adicional
+"¿Este software tiene una versión para móviles?":Información adicional
+"¿Qué tipo de conexión utiliza este dispositivo?":Información adicional
+"¿Cuál es el rendimiento de la batería?":Información adicional
+"¿Este servicio tiene soporte en varios idiomas?":Información adicional
+"¿Hay alguna opción para obtener un reembolso?":Información adicional
+"¿Este dispositivo tiene una pantalla táctil?":Información adicional
+"¿Se puede integrar con otros servicios?":Información adicional
+"¿Cuál es la fecha de lanzamiento del producto?":Información adicional
+"¿Este servicio tiene un plan de suscripción?":Información adicional
+"¿Este dispositivo tiene puerto USB?":Información adicional
+"¿Este producto incluye batería recargable?":Información adicional
+"¿Qué tipo de garantía ofrece el fabricante?":Información adicional
+"¿Este modelo tiene compatibilidad con wifi 6?":Información adicional
+"¿El producto está disponible en todas las tiendas?":Información adicional
+"¿Este software tiene soporte para múltiples idiomas?":Información adicional
+"¿Puedo instalar este producto en varios dispositivos?":Información adicional
+"¿Cuántas veces al año debo hacer mantenimiento?":Información adicional
+"¿Este producto tiene soporte en diferentes países?":Información adicional
+"¿Qué incluye la suscripción al servicio?":Información adicional
+"¿Puedo obtener más detalles sobre el proceso de instalación?":Información adicional
+"¿Este dispositivo se puede usar sin conexión a internet?":Información adicional
+"¿Es posible realizar una prueba gratuita del software?":Información adicional
+"¿Cuál es la diferencia entre este modelo y el anterior?":Información adicional
+"¿Este producto tiene opción para control parental?":Información adicional
+"¿Este producto es adecuado para uso en oficina?":Información adicional
+"¿Puedo cambiar la configuración predeterminada del dispositivo?":Información adicional
+"¿Este dispositivo se puede actualizar automáticamente?":Información adicional
+"¿Este servicio tiene opciones de personalización?":Información adicional
+"¿El producto es compatible con todos los tipos de dispositivos?":Información adicional
+"¿El servicio tiene algún cargo adicional?":Información adicional
+"¿Este producto viene con un cargador?":Información adicional
+"¿Qué opciones de pago aceptan?":Información adicional
+"¿Este producto tiene certificación de seguridad?":Información adicional
+"¿El servicio tiene algún tipo de soporte técnico?":Información adicional
+"¿Este modelo tiene pantalla de alta definición?":Información adicional
+"¿Puedo cambiar la memoria del dispositivo?":Información adicional
+"¿Este dispositivo tiene control por voz?":Información adicional
+"¿Puedo usar este producto en el extranjero?":Información adicional
+"¿Qué tipo de conexión requiere este dispositivo?":Información adicional
+"¿Este producto incluye el servicio de instalación?":Información adicional

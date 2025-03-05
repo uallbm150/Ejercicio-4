@@ -7,6 +7,7 @@ from sklearn.preprocessing import LabelEncoder
 import json
 from keras import regularizers
 from keras.callbacks import EarlyStopping
+from collections import Counter
 
 # Calcular el peso de cada clase para balancear
 class_weights = {0: 1., 1: 1.5, 2: 1.5}  # Ajusta estos pesos según el desequilibrio de las clases
@@ -33,9 +34,24 @@ preguntas, respuestas = cargar_datos(archivo_datos)
 label_encoder = LabelEncoder()
 y = label_encoder.fit_transform(respuestas)
 
+# Filtrar clases con menos de 2 muestras
+class_counts = Counter(y)
+min_samples_per_class = 2
+
+# Filtramos las clases con muy pocos ejemplos (por ejemplo, menos de 2)
+valid_classes = [key for key, value in class_counts.items() if value >= min_samples_per_class]
+filtered_data = [(pregunta, respuesta) for pregunta, respuesta in zip(preguntas, y) if respuesta in valid_classes]
+preguntas_filtradas, respuestas_filtradas = zip(*filtered_data)
+preguntas_filtradas = np.array(preguntas_filtradas)
+respuestas_filtradas = np.array(respuestas_filtradas)
+
+# Reindexar las clases después de filtrar
+label_encoder = LabelEncoder()
+y_reindexado = label_encoder.fit_transform(respuestas_filtradas)
+
 # Dividir los datos en entrenamiento y prueba
 x_train_raw, x_test_raw, y_train, y_test = train_test_split(
-    preguntas, y, test_size=0.2, random_state=42, stratify=y
+    preguntas_filtradas, y_reindexado, test_size=0.2, random_state=42, stratify=y_reindexado
 )
 
 # Crear y adaptar la capa de tokenización
